@@ -2,4 +2,4 @@
 
 A repo for listing and adding reviews for burrito places in Melbourne
 
-Complete README coming soon!
+## This repo is archived and the project is currently being built using Monorepo approach
